@@ -1,4 +1,4 @@
-# ellie_tattoo
+# Ellie's Tattoo Files - Personal License
 
 License is for personal use only. Not eligible for sale. 
 
